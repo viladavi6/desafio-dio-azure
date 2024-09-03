@@ -1,19 +1,22 @@
-# Desafio2_Projeto_PowerBi_Dio
-Projeto Final
 
-1 - Criado conta na Azure.
+# 📊Dashboard Feito No Curso de Engenharia de Dados da DIO
 
-2 - Criado um banco de dados no Azure para poder iniciar o projeto.
+Projeto feito no módulo do meu curso, fiz um dashboard simples com a database criada com MYSQL e Azure.
 
-3 - Aplicado ajustes de rede e permissões devidas para acesso e edição no Power BI Desktop.
 
-4 - Baixado certificado e validado.
+## ▶ Como Executar o Arquivo?
 
-5 - Efetuado a conexão com workbench para edição do script e inserção de informações e valores conforme projeto da DIO.
+É necessário ter o Power BI instalado.
 
-6 - Após edição conforme, aberto no PowerBI, dados transofrmados no PowerQuery para edição do relatório.
 
-7 - No Power Query, você pode combinar duas consultas de duas maneiras: Acrescentar Consultas e Mesclar Consultas. A principal diferença entre as duas é que Acrescentar Consultas adiciona linhas à tabela, enquanto Mesclar Consultas adiciona colunas à tabela.
-A opção Acrescentar Consultas é útil quando você deseja combinar as duas tabelas em uma única tabela adicionando dados. Por outro lado, a opção Mesclar Consultas é útil quando você deseja combinar informações de duas tabelas em uma única.
+## 🎞 Imagens do Projeto
 
-8 - Efetuado um relatorio simples de página unica em desktop e mobile.
+![image](https://github.com/user-attachments/assets/01cc08bc-7cbb-489c-b75e-7b82706e893d)
+
+
+## ⚙ Ferramentas Utilizadas 
+
+<div>
+  <img width="50px" lang="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img width="50px" lang="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" />
+</div>
